@@ -1,0 +1,12 @@
+/* Reset padrão para limpar margens e paddings do navegador */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho do elemento */
+}
+
+
+/* Configurações globais básicas */
+body {
+    font-family: "inter", sans-serif
+}
